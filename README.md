@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oneri20
-- 👀 I’m interested in robotic and kontroller system, artificial intelligence, unmanned aerial vehicle
+- 👀 I’m interested in robotic and controller system, artificial intelligence, unmanned aerial vehicle
 - 🌱 I’m currently learning MATLAB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
